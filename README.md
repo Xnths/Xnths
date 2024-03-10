@@ -27,7 +27,7 @@
 - [Bike SP](https://gitlab.com/interscity/bikesp/bikespapp): Project on InterSCity Research to incentivize cyclists to use bicycles on São Paulo.
 
 ### Automated Test Techniques Research
-- [Bike SP](https://gitlab.com/interscity/bikesp/bikespapp): Scientific Research on UI automated tests on Android environment
+- [Bike SP](https://gitlab.com/interscity/bikesp/bikespapp): Scientific Research on UX automated tests on Android environment
 
 ## Get in Touch
 - 📧 Email: jonathascastilhoes@gmail.com
