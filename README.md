@@ -10,7 +10,7 @@
 - 🎓 Computer Scientist at the University of São Paulo (USP)
 
 ## Programming Languages
-- 💻 Proficient in C, C++ and Javascript
+- 💻 Proficient in C, C++, Javascript, Java and Typescript
 - ⚙️ Also, skilled in Java, Python, PHP and C#
 
 ## Language Proficiency
