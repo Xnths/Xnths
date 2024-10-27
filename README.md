@@ -3,8 +3,8 @@
 ## About Me
 - 🌐 Front End Developer | Web Developer | Android Developer
 - 🎨 UI/UX and design professional background
-- 🧪 Currently researching UX Automated Test Techniques
-- 🚀 Experienced with React Native and ReactJS
+- 🧪 Currently working on AR Projects for educational purposes
+- 🚀 Experienced with React Native, ReactJS and NexJS
 
 ## Academic Background
 - 🎓 Computer Scientist at the University of São Paulo (USP)
