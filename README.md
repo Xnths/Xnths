@@ -11,7 +11,7 @@
 
 ## Programming Languages
 - 💻 Proficient in C, C++, Javascript, Java and Typescript
-- ⚙️ Also, skilled in Java, Python, PHP and C#
+- ⚙️ Also, skilled in PHP and C#
 
 ## Language Proficiency
 - 🗣 Fluent in both Portuguese and English
