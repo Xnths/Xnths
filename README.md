@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌐 Front End Developer | Web Developer | Android Developer
-- 🎨 UI/UX Enthusiast
+- 🎨 UI/UX and design professional background
 - 🧪 Currently researching UX Automated Test Techniques
 - 🚀 Experienced with React Native and ReactJS
 
