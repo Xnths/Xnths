@@ -29,6 +29,9 @@
 - [Yggdrasil3](https://github.com/Xnths/yggdrasil3): Management system to keep track of students academic progress on Bachelor Computer Science course at University of São Paulo (USP);
 - [Bike SP](https://gitlab.com/interscity/bikesp/bikespapp): Project on InterSCity Research to incentivize cyclists to use bicycles on São Paulo;
 
+### Projects
+- [MatematecAR](https://github.com/Lab3d-Matemateca/MatematecAR): Mobile application which uses Augemented Reality to support the exposition [Matemateca](https://matemateca.ime.usp.br/)
+
 ## Get in Touch
 - 📧 Email: jonathascastilhoes@gmail.com
 - 💼 LinkedIn: [Jonathas Castilho](https://www.linkedin.com/in/xnths/)
