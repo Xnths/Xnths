@@ -23,7 +23,6 @@
 - 🚀 Check out my latest projects in the repositories below!
 
 ### Front-end Projects
-- [Patagon](https://patagon.work/): Plataform designed and developed for the company;
 - [Coorupira](https://github.com/Xnths/coorupira): Winning project developed during the Hackathon USP in 2024;
 - [Symcomp](https://github.com/Xnths/symcomp): Web page for the college group Symcomp;
 - [Yggdrasil3](https://github.com/Xnths/yggdrasil3): Management system to keep track of students academic progress on Bachelor Computer Science course at University of São Paulo (USP);
