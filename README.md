@@ -2,6 +2,7 @@
 
 ## About Me
 - 🌐 Front End Developer | Web Developer | Android Developer
+- 📚 Studying Full Stack
 - 🎨 UI/UX and design professional background
 - 🧪 Currently working on AR Projects for educational purposes
 - 🚀 Experienced with React Native, ReactJS and NextJS
@@ -22,9 +23,12 @@
 ## Projects
 - 🚀 Check out my latest projects in the repositories below!
 
+### Full Stack Projects
+- [Symcomp](https://github.com/Symcomp-IME-USP/symcomp): Web page for the college group Symcomp;
+- [Symcomp - Server](https://github.com/Symcomp-IME-USP/symcomp-server): api for the front end;
+
 ### Front-end Projects
 - [Coorupira](https://github.com/Xnths/coorupira): Winning project developed during the Hackathon USP in 2024;
-- [Symcomp](https://github.com/Xnths/symcomp): Web page for the college group Symcomp;
 - [Yggdrasil3](https://github.com/Xnths/yggdrasil3): Management system to keep track of students academic progress on Bachelor Computer Science course at University of São Paulo (USP);
 - [Bike SP](https://gitlab.com/interscity/bikesp/bikespapp): Project on InterSCity Research to incentivize cyclists to use bicycles on São Paulo;
 
