@@ -32,10 +32,12 @@
 ### Full Stack Projects
 - [Symcomp](https://github.com/Symcomp-IME-USP/symcomp): Web page for the college group Symcomp;
 - [Symcomp - Server](https://github.com/Symcomp-IME-USP/symcomp-server): api for the front end;
+- [CPQs Abertas](https://gitlab.com/cpqs-abertas): Exposition of every scientific work made at USP;
 
 ### Front-end Projects
 - [Coorupira](https://github.com/Xnths/coorupira): Winning project developed during the Hackathon USP in 2024;
 - [Bike SP](https://gitlab.com/interscity/bikesp/bikespapp): Project on InterSCity Research to manage rewards for the use of bycicles in the city of São Paulo;
+- [HUB CPQs Abertas](https://gitlab.com/cpqs-abertas/cpqs-abertas-v3): Home page to show scientific work made by USP's professors;
 
 ### Projects
 - [MatematecAR](https://github.com/Lab3d-Matemateca/MatematecAR): Mobile application which uses Augemented Reality to support the exposition [Matemateca](https://matemateca.ime.usp.br/)
