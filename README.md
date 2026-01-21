@@ -1,25 +1,24 @@
 # Hi there! 👋 I'm [Jonathas]
 
 ## About Me
-- 🌐 Full Stack Engineer:
+- 🌐 Software Engineer:
   - 💅 Front End : Web, Android and Unity
   - 💾 Back End: NodeJS, Django and FastAPI
   - 📦 DevOps: Apache, Docker and AWS
-- 📚 Studying SOLID | Clean Code | Agile
-- 🎨 UI, UX Engineering and design professional background
-- 🚀 Experienced with React Native, ReactJS and NextJS
+  - 📚 Architecture: SOLID | Clean Code | Agile | Design Patterns
+  - 🧪 Automated Tests | Coverage Criteria | Test Requirements
 
 ## Academic Background
 - 🎓 Undergraduate Computer Scientist at the University of São Paulo (USP)
   - Conclusion in July 2026
 
 ## Programming Languages
-- 💻 Proficient in C, C++, Java, C#, Javascript and Typescript
-- ⚙️ Also, skilled in PHP and Python
+- 💻 Proficient in C, C++, Java, C#, Javascript, Typescript, Python
+- ⚙️ Also, skilled in PHP and Go
 
 ## Language Proficiency
 - 🗣 Fluent in both Portuguese and English
-- 📚 Studying German basics
+- 📚 Studying German
 
 ## Operating System
 - 🐧 Linux (main)
