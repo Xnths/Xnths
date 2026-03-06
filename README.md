@@ -1,43 +1,45 @@
-# Hi there! 👋 I'm [Jonathas]
+# Hi there! 👋 I'm Jonathas (Xnths)
 
 ## About Me
-- 🌐 Software Engineer:
-  - 💅 Front End : Web, Android and Unity
-  - 💾 Back End: NodeJS, Django and FastAPI
-  - 📦 DevOps: Apache, Docker and AWS
-  - 📚 Architecture: SOLID | Clean Code | Agile | Design Patterns
-  - 🧪 Automated Tests | Coverage Criteria | Test Requirements
+- 🌐 **Software Engineer** with 9+ years of experience in high-impact software delivery.
+- 🧠 **Specialized Focus:** Applying Radical Behaviorism to Agile workflows and AI Agent Orchestration.
+- 💅 **Front End:** Next.js, React, Tailwind CSS, and Flutter (Mobile).
+- 💾 **Back End:** Python, Django, Node.js, PostgreSQL, and Elasticsearch.
+- ⚙️ **RevOps & Automation:** N8N, HubSpot, Zoho.
+- 📦 **DevOps:** Docker, Git.
+- ☁ **Cloud Computing:** AWS, Azure, Terraform.
+- 📚 **Architecture & Quality:** SOLID | Clean Code | Graph Coverage Testing | Core Web Vitals.
 
 ## Academic Background
-- 🎓 Undergraduate Computer Scientist at the University of São Paulo (USP)
-  - Conclusion in July 2026
+- 🎓 **Undergraduate Computer Scientist** at the University of São Paulo (USP)
+  - Expected Conclusion: July 2026
+  - **Thesis:** "Agile as Rule-Governed Behavior: A Radical Behaviorist Examination of Software Development." [full project](
+https://xnths.github.io/tcc-page/)
 
 ## Programming Languages
-- 💻 Proficient in C, C++, Java, C#, Javascript, Typescript, Python
-- ⚙️ Also, skilled in PHP and Go
+- 💻 **Proficient:** TypeScript/JavaScript, Python, Java, C++, Shell Script (Bash)
+- ⚙️ **Skilled:** PHP, Kotlin, C#, Golang
 
 ## Language Proficiency
-- 🗣 Fluent in both Portuguese and English
-- 📚 Studying German
+- 🗣 **Portuguese:** Native
+- 🗣 **English:** Professional/Advanced (C1) - MET Certified
 
 ## Operating System
-- 🐧 Linux (main)
-- 🍎 MacOS
-- 💻 Windows
+- 🐧 **Linux** (Fedora / Debian)
 
 ## Projects
-- 🚀 Check out my latest projects in the repositories below!
+- 🚀 Check out my latest work in the repositories below!
 
-### Full Stack Projects
-- [Symcomp](https://github.com/Symcomp-IME-USP/symcomp-project): Web page for Symcomp's projects showcase and experimental software development;
-- [CPQs Abertas](https://gitlab.com/cpqs-abertas): Twin for Lattes Curriculum from faculty  at USP;
+### Full Stack & Data Projects
+- **[Lattes Platform Replica (CPQs Abertas)](https://gitlab.com/cpqs-abertas):** High-fidelity data scraper and statistical generation module for USP faculty.
+- **[HealthTech Clinical Management]:** Full-scale clinical management system with automated scheduling and high-conversion landing pages.
+- **[Symcomp](https://github.com/Symcomp-IME-USP/symcomp-project):** Web page for Symcomp's projects showcase and experimental software development.
 
-### Front-end Projects
-- [Bike SP](https://gitlab.com/interscity/bikesp/bikespapp): Project on InterSCity Research to manage rewards for the use of bycicles in the city of São Paulo;
-
-### CG projects
-- [MatematecAR](https://github.com/Lab3d-Matemateca/MatematecAR): Mobile application which uses Augemented Reality to support the exposition [Matemateca](https://matemateca.ime.usp.br/)
+### Front-end & Mobile Projects
+- **[Bike SP](https://gitlab.com/interscity/bikesp/bikespapp):** Project on InterSCity Research to manage rewards for the use of bicycles in the city of São Paulo.
+- **[MatematecAR](https://github.com/Lab3d-Matemateca/MatematecAR):** Mobile application using Augmented Reality to support the [Matemateca](https://matemateca.ime.usp.br/) exposition.
 
 ## Get in Touch
-- 📧 Email: jonathascastilhoes@gmail.com
-- 💼 LinkedIn: [Jonathas Castilho](https://www.linkedin.com/in/xnths/)
+- 🌐 **Portfolio:** [xnths.com](https://xnths.com)
+- 📧 **Email:** [jonathas@xnths.com](mailto:jonathas@xnths.com)
+- 💼 **LinkedIn:** [linkedin.com/in/xnths](https://linkedin.com/in/xnths)
